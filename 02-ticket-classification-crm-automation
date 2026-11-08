@@ -1,0 +1,24 @@
+# AI Ticket Classification & CRM Automation
+
+## Overview
+This project demonstrates an AI-powered support ticket classification and CRM automation workflow using n8n.
+
+## Features
+- Automated support ticket processing
+- AI-based ticket classification
+- Ticket data organization
+- CRM workflow automation
+- Reduced manual ticket handling
+
+## Tools & Technologies
+- n8n
+- AI Integration
+- API Integrations
+- Google Sheets
+- CRM Automation
+
+## Project Purpose
+The purpose of this project is to explore how AI and workflow automation can improve support ticket management.
+
+## Project Type
+Learning / Demo Project
